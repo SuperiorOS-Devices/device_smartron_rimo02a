@@ -260,4 +260,5 @@ ro.com.google.clientidbase.gmm=android-smartron
 ro.com.google.clientidbase.ms=android-smartron
 ro.com.google.clientidbase.yt=android-smartron
 
+qemu.hw.mainkeys=1
 
