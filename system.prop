@@ -262,3 +262,8 @@ ro.com.google.clientidbase.yt=android-smartron
 
 qemu.hw.mainkeys=1
 
+#Properties to enable VoWiFi services
+persist.radio.vowifi_enable=1
+
+#Properties to enable iwlan
+persist.data.iwlan.enable=true
